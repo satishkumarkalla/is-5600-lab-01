@@ -65,7 +65,7 @@ header p {
  font-size: 24px;
  margin-bottom: 1.5rem;
 }
-/* We can to target header.div.a because if we taget simply a, then these styles will affect our navigation links as well */
+
 header div a {
    background-color: #51279b;
    color: white;
